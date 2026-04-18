@@ -1,0 +1,101 @@
+Row Labels,Sum of UserID_Profile,,,,,
+female,84 842 548,,,,,
+male,836 815 691,,,,,
+None,14 194 868,,,,,
+Grand Total,935 853 107,,,,,
+,,,,,,
+,,,,,,
+Row Labels,Sum of UserID_Profile,,,,,
+black,405 928 122,,,,,
+coloured,227 851 834,,,,,
+indian_asian,160 960 140,,,,,
+None,56 302 030,,,,,
+other,6 460 403,,,,,
+white,75 944 100,,,,,
+Grand Total,933 446 629,,,,,
+,,,,,,
+Row Labels,Sum of UserID_Profile,,,,,
+Gauteng,320 376 539,,,,,
+Western Cape,218 724 545,,,,,
+Kwazulu Natal,94 269 932,,,,,
+Mpumalanga,80 280 474,,,,,
+Limpopo,70 469 848,,,,,
+Eastern Cape,62 551 208,,,,,
+Free State,38 132 615,,,,,
+North West,27 276 563,,,,,
+None,14 194 868,,,,,
+Northern Cape,9 576 515,,,,,
+Grand Total,935 853 107,,,,,
+,,,,,,
+Row Labels,Sum of UserID_Profile,,,,,
+Africa Magic,85 286 955,,,,,
+Boomerang,83 386 820,,,,,
+Break in transmission,7 054 269,,,,,
+Cartoon Network,66 814 829,,,,,
+Channel O,109 983 325,,,,,
+CNN,38 209 073,,,,,
+DStv Events 1,8 905 562,,,,,
+E! Entertainment,21 153 283,,,,,
+ICC Cricket World Cup 2011,129 710 937,,,,,
+kykNET,4 435 508,,,,,
+MK,2 468 852,,,,,
+M-Net,11 072 369,,,,,
+SawSee,21 004 979,,,,,
+SuperSport Blitz,85 465 551,,,,,
+Supersport Live Events,150 200 045,,,,,
+Trace TV,99 648 723,,,,,
+Vuzu,11 052 027,,,,,
+Grand Total,935 853 107,,,,,
+,,,,,,
+Sum of HourOfDay,,,,,,
+,Daytime_viewing,Family_time,Latenight_viewing,Morning_views,Night_Owl,Grand Total
+Supersport Live Events,921,758,45,348,14,2 086
+Trace TV,481,719,157,211,19,1 587
+Channel O,594,509,67,290,44,1 504
+ICC Cricket World Cup 2011,913,76,22,400,4,1 415
+SuperSport Blitz,404,636,23,150,26,1 239
+Boomerang,318,546,113,218,8,1 203
+Africa Magic,406,493,44,188,10,1 141
+Cartoon Network,349,511,111,139,3,1 113
+CNN,197,210,67,58,10,542
+E! Entertainment,71,208,22,43,,344
+SawSee,98,173,23,35,3,332
+Vuzu,16,94,22,33,,165
+DStv Events 1,,110,22,22,,154
+M-Net,14,98,,38,2,152
+Break in transmission,11,56,,11,3,81
+kykNET,44,,23,8,,75
+MK,,39,,,0,39
+Grand Total,4 837,5 236,761,2 192,146,13 172
+,,,,,,
+Sum of UserID_Profile,Column Labels,,,,,
+Row Labels,female,male,None,Grand Total,,
+Boomerang,5 950 422,77 020 166,416 232,83 386 820,,
+Sun,1 372 658,11 281 070,,12 653 728,,
+Mon,1 372 658,17 991 435,,19 364 093,,
+Tue,,4 548 167,,4 548 167,,
+Wed,1 602 520,9 039 576,,10 642 096,,
+Thu,,15 034 478,,15 034 478,,
+Fri,793 571,6 505 476,,7 299 047,,
+Sat,809 015,12 619 964,416 232,13 845 211,,
+Grand Total,5 950 422,77 020 166,416 232,83 386 820,,
+,,,,,,
+,Sum of HourOfDay,,,Sum of HourOfDay,,
+Sun,2 104,,Africa Magic,1 141,,
+Mon,1 435,,Boomerang,1 203,,
+Tue,1 622,,Break in transmission,81,,
+Wed,1 820,,Cartoon Network,1 113,,
+Thu,1 923,,Channel O,1 504,,
+Fri,1 931,,CNN,542,,
+Sat,2 337,,DStv Events 1,154,,
+Grand Total,13 172,,E! Entertainment,344,,
+,,,ICC Cricket World Cup 2011,1 415,,
+,,,kykNET,75,,
+,,,MK,39,,
+,,,M-Net,152,,
+,,,SawSee,332,,
+,,,SuperSport Blitz,1 239,,
+,,,Supersport Live Events,2 086,,
+,,,Trace TV,1 587,,
+,,,Vuzu,165,,
+,,,Grand Total,13 172,,
