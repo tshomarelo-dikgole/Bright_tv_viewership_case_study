@@ -7,4 +7,6 @@ Business objectives- Understand who is watching, what they are watching and when
 - Viewing behaviour
 - Watch duration patterns
 - Time- based engagement trends
+
+  
 This analysis helps Bright TV optmise programme schedules , improve targeted advertising and understand audience demographics.
